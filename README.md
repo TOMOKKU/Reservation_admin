@@ -1,7 +1,9 @@
-```php:index.php
+```php
+//index.php
 $conn = new mysqli('localhost', 'username', 'password', 'reservation_system');
 ```
-```php:delete.php
+```php
+//delete.php
 $conn = new mysqli('localhost', 'username', 'password', 'database');
 ```
 ## 以下のように変更してください
